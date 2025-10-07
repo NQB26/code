@@ -1,0 +1,81 @@
+# ELE-D24-NguyenQuangBach - Báo cáo công việc ngày 22/08/2025
+
+## A. Công việc đã làm:
+
+1. Kiểm tra mail tham gia Google Group và Github CLB
+
+2. Tải github desktop, commit file và push lên web
+
+3. Các lệnh để viết file README.md
+
+## B. Báo cáo chi tiết
+
+1. Kiểm tra mail tham gia Google Group và Github CLB
+
+- Đã nhận được mail mời tham gia và xác nhận vào group
+
+![alt text](image.png)
+
+**Form báo cáo**
+
+***Form báo cáo***
+
+```
+D24 - Họ và tên - Báo cáo lớp xxxx ngày dd/mm/yyyy
+
+A. Công việc đã làm
+
+-
+
+-
+
+-
+
+B. Báo cáo chi tiết <gắn link github>
+```
+
+- Mail áp dụng chung cho các lớp sau này nếu có thay đổi người đứng lớp sẽ báo
+
+2. Đã biết cách push file lên github
+
+![alt text](image-1.png)
+
+![alt text](image-3.png)
+
+- Viết file .md trên notepad++ hoặc visual studio code
+
+- review báo cáo qua visual hoặc trên github
+
+3. Các lệnh để viết file README.md
+
+- Lệnh Header # -> ## -> ### -> ####
+
+- In đậm ** **
+
+- In nghiêng *** ***
+
+- Insert code
+
+```c
+#include <stdio.h>
+
+int main (){
+    printf("Hello");
+}
+```
+
+- Ảnh
+
+- Tạo bảng
+
+| Bảng | Tiêu chí 1 | Tiêu chí 2 |
+|------|------------|------------|
+| | |
+
+## C. Bài tập
+
+- Ôn tập về cách đọc điện trở theo 3 cách đọc trở (resistor), tụ (capacitor), cuộn cảm (Inductor) linh kiện thụ động
+
+## D. Khó khăn gặp phải
+
+- Việc tạo github hoặc không add lên được do bị lệnh fork...
